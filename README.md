@@ -1,4 +1,4 @@
-##Applied Genomic Technologies(BENG183)
+Applied Genomic Technologies(BENG183)
 
 Project Summary:   We built a evaluation pipeline on how AlphaMissense works. AlphaMissense is an extenstion of AlphaFold which is a groundbreaking AI system developed by Google DeepMind  that is used to predict protein structure. It  builds upon the models and protein data already provided by AlphaFold. 
 
